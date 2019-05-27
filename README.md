@@ -1,5 +1,5 @@
 # ML1
-Mini-Projet 1 - Task 1
+Mini-Projetct 1
 
 
-
+Alexandre Banon; Vincent Delmas; Sitao Lu
